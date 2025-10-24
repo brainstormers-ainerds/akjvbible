@@ -1,0 +1,266 @@
+{
+  "Genesis": {
+    "chapters": 50,
+    "total_verses": 1533
+  },
+  "Exodus": {
+    "chapters": 40,
+    "total_verses": 1213
+  },
+  "Leviticus": {
+    "chapters": 27,
+    "total_verses": 859
+  },
+  "Numbers": {
+    "chapters": 36,
+    "total_verses": 1288
+  },
+  "Deuteronomy": {
+    "chapters": 34,
+    "total_verses": 959
+  },
+  "Joshua": {
+    "chapters": 24,
+    "total_verses": 658
+  },
+  "Judges": {
+    "chapters": 21,
+    "total_verses": 618
+  },
+  "Ruth": {
+    "chapters": 4,
+    "total_verses": 85
+  },
+  "1 Samuel": {
+    "chapters": 31,
+    "total_verses": 810
+  },
+  "2 Samuel": {
+    "chapters": 24,
+    "total_verses": 695
+  },
+  "1 Kings": {
+    "chapters": 22,
+    "total_verses": 816
+  },
+  "2 Kings": {
+    "chapters": 25,
+    "total_verses": 719
+  },
+  "1 Chronicles": {
+    "chapters": 29,
+    "total_verses": 942
+  },
+  "2 Chronicles": {
+    "chapters": 36,
+    "total_verses": 822
+  },
+  "Ezra": {
+    "chapters": 10,
+    "total_verses": 280
+  },
+  "Nehemiah": {
+    "chapters": 13,
+    "total_verses": 406
+  },
+  "Esther": {
+    "chapters": 10,
+    "total_verses": 167
+  },
+  "Job": {
+    "chapters": 42,
+    "total_verses": 1070
+  },
+  "Psalms": {
+    "chapters": 150,
+    "total_verses": 2461
+  },
+  "Proverbs": {
+    "chapters": 31,
+    "total_verses": 915
+  },
+  "Ecclesiastes": {
+    "chapters": 12,
+    "total_verses": 222
+  },
+  "Song of Solomon": {
+    "chapters": 8,
+    "total_verses": 117
+  },
+  "Isaiah": {
+    "chapters": 66,
+    "total_verses": 1292
+  },
+  "Jeremiah": {
+    "chapters": 52,
+    "total_verses": 1364
+  },
+  "Lamentations": {
+    "chapters": 5,
+    "total_verses": 154
+  },
+  "Ezekiel": {
+    "chapters": 48,
+    "total_verses": 1273
+  },
+  "Daniel": {
+    "chapters": 12,
+    "total_verses": 357
+  },
+  "Hosea": {
+    "chapters": 14,
+    "total_verses": 197
+  },
+  "Joel": {
+    "chapters": 3,
+    "total_verses": 73
+  },
+  "Amos": {
+    "chapters": 9,
+    "total_verses": 146
+  },
+  "Obadiah": {
+    "chapters": 1,
+    "total_verses": 21
+  },
+  "Jonah": {
+    "chapters": 4,
+    "total_verses": 48
+  },
+  "Micah": {
+    "chapters": 7,
+    "total_verses": 105
+  },
+  "Nahum": {
+    "chapters": 3,
+    "total_verses": 47
+  },
+  "Habakkuk": {
+    "chapters": 3,
+    "total_verses": 56
+  },
+  "Zephaniah": {
+    "chapters": 3,
+    "total_verses": 53
+  },
+  "Haggai": {
+    "chapters": 2,
+    "total_verses": 38
+  },
+  "Zechariah": {
+    "chapters": 14,
+    "total_verses": 211
+  },
+  "Malachi": {
+    "chapters": 4,
+    "total_verses": 55
+  },
+  "Matthew": {
+    "chapters": 28,
+    "total_verses": 1071
+  },
+  "Mark": {
+    "chapters": 16,
+    "total_verses": 678
+  },
+  "Luke": {
+    "chapters": 24,
+    "total_verses": 1151
+  },
+  "John": {
+    "chapters": 21,
+    "total_verses": 879
+  },
+  "Acts": {
+    "chapters": 28,
+    "total_verses": 1007
+  },
+  "Romans": {
+    "chapters": 16,
+    "total_verses": 433
+  },
+  "1 Corinthians": {
+    "chapters": 16,
+    "total_verses": 437
+  },
+  "2 Corinthians": {
+    "chapters": 13,
+    "total_verses": 257
+  },
+  "Galatians": {
+    "chapters": 6,
+    "total_verses": 149
+  },
+  "Ephesians": {
+    "chapters": 6,
+    "total_verses": 155
+  },
+  "Philippians": {
+    "chapters": 4,
+    "total_verses": 104
+  },
+  "Colossians": {
+    "chapters": 4,
+    "total_verses": 95
+  },
+  "1 Thessalonians": {
+    "chapters": 5,
+    "total_verses": 89
+  },
+  "2 Thessalonians": {
+    "chapters": 3,
+    "total_verses": 47
+  },
+  "1 Timothy": {
+    "chapters": 6,
+    "total_verses": 113
+  },
+  "2 Timothy": {
+    "chapters": 4,
+    "total_verses": 83
+  },
+  "Titus": {
+    "chapters": 3,
+    "total_verses": 46
+  },
+  "Philemon": {
+    "chapters": 1,
+    "total_verses": 25
+  },
+  "Hebrews": {
+    "chapters": 13,
+    "total_verses": 303
+  },
+  "James": {
+    "chapters": 5,
+    "total_verses": 108
+  },
+  "1 Peter": {
+    "chapters": 5,
+    "total_verses": 105
+  },
+  "2 Peter": {
+    "chapters": 3,
+    "total_verses": 61
+  },
+  "1 John": {
+    "chapters": 5,
+    "total_verses": 105
+  },
+  "2 John": {
+    "chapters": 1,
+    "total_verses": 13
+  },
+  "3 John": {
+    "chapters": 1,
+    "total_verses": 14
+  },
+  "Jude": {
+    "chapters": 1,
+    "total_verses": 25
+  },
+  "Revelation": {
+    "chapters": 22,
+    "total_verses": 404
+  }
+}
